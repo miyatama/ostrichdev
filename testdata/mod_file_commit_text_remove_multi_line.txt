@@ -1,0 +1,19 @@
+commit 75f6622e3827fc3a1ae74fc9c18590b5214adcd1 (HEAD -> master, origin/master, origin/develop, develop)
+Author: unknown <n.miyata080825@gmail.com>
+Date:   Tue Mar 31 13:35:14 2020 +0900
+
+    mod print message
+
+diff --git a/main.go b/main.go
+index 28f37e0..52a7925 100644
+--- a/main.go
++++ b/main.go
+@@ -5,5 +5,5 @@ import (
+ )
+
+ func main() {
+-       fmt.Println("hello")
+-       fmt.Println("hello2")
+-       fmt.Println("hello3")
++       fmt.Println("hello world")
+ }

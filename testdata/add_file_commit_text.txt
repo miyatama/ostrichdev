@@ -1,0 +1,21 @@
+commit 05f296450d20f0b5e5a596208b05f313e83bc1af (HEAD -> master, origin/master, origin/develop, develop)
+Author: unknown <n.miyata080825@gmail.com>
+Date:   Tue Mar 31 13:15:38 2020 +0900
+
+    add main.go
+
+diff --git a/main.go b/main.go
+new file mode 100644
+index 0000000..28f37e0
+--- /dev/null
++++ b/main.go
+@@ -0,0 +1,9 @@
++package main
++
++import (
++       "fmt"
++)
++
++func main() {
++       fmt.Println("hello")
++}

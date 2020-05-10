@@ -1,0 +1,15 @@
+commit 063af793e82d1af3661b24fef3966794785f68a5 (HEAD -> master, origin/master, origin/develop, develop)
+Author: unknown <n.miyata080825@gmail.com>
+Date:   Tue Mar 31 13:32:32 2020 +0900
+
+    remove miyata.txt
+
+diff --git a/miyata.txt b/miyata.txt
+deleted file mode 100644
+index 8586f95..0000000
+--- a/miyata.txt
++++ /dev/null
+@@ -1,3 +0,0 @@
+-hi
+-I'm
+-miyata
